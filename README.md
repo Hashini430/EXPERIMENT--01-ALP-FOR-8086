@@ -98,7 +98,7 @@ ret
 ```
  
 ## Output  
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/604e34d8-32ff-45c8-a7de-a4c76e608c75" />
+<img width="1375" height="833" alt="image" src="https://github.com/user-attachments/assets/05fa7bff-db89-4471-8e83-e40a2ae72498" />
 
 ## Multiplication alp 
 ```
@@ -108,7 +108,7 @@ mul bl
 ret
 ```
  ## Output  
- <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/f160efcf-594f-4dc4-9179-606243d50781" />
+<img width="1204" height="826" alt="image" src="https://github.com/user-attachments/assets/cd4944a1-2bce-4998-a716-9d360eb643d2" />
 
 
 
@@ -121,7 +121,60 @@ ret
 ```
 
 ## Output  
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/3690e1ce-e183-404c-a5aa-d61dd8d0be0c" />
+<img width="1291" height="911" alt="image" src="https://github.com/user-attachments/assets/69befd16-705d-454f-ad1d-af82b9123a5c" />
+
+
+
+## AND  alp 
+```
+MOV AL, 53H;
+MOV BL, 24H;
+AND AL,BL;
+HLT
+```
+
+## Output  
+<img width="1446" height="939" alt="image" src="https://github.com/user-attachments/assets/df52ca84-637c-4b00-b52b-f017d09a706d" />
+
+
+
+## OR  alp 
+```
+MOV AL, 53H;
+MOV BL, 24H;
+OR AL, BL;
+HLT
+```
+
+## Output  
+<img width="1880" height="931" alt="image" src="https://github.com/user-attachments/assets/b6aa40ee-6f29-4a56-825b-86c884a08714" />
+
+
+
+## NOT alp 
+```
+MOV AL, 53H;
+MOV BL, 24H;
+NOT AL;
+HLT
+```
+
+## Output  
+<img width="1188" height="732" alt="image" src="https://github.com/user-attachments/assets/de8ab641-502a-434a-9412-58924d6361e8" />
+
+
+## XOR alp 
+```
+MOV AL, 53H;
+MOV BL, 24H;
+XOR AL, BL;
+HLT
+```
+
+## Output  
+<img width="1254" height="775" alt="image" src="https://github.com/user-attachments/assets/ca802d39-871b-450f-bdce-ad792e327be2" />
+
+
 
 
 
