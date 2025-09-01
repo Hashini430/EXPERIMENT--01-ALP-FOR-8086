@@ -175,6 +175,18 @@ HLT
 <img width="1254" height="775" alt="image" src="https://github.com/user-attachments/assets/ca802d39-871b-450f-bdce-ad792e327be2" />
 
 
+## NAND alp 
+```
+MOV AL,53H
+MOV BL,24H
+AND AL,BL
+NOT AL
+```
+
+## Output  
+
+<img width="1235" height="816" alt="image" src="https://github.com/user-attachments/assets/cbcc37d8-f432-4996-8e71-5e4341a5e984" />
+
 
 
 
