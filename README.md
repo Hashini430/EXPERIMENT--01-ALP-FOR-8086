@@ -84,7 +84,8 @@ add al,bl
 ret
 ```
 
-## Output  <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/90c49563-064d-436d-a5ba-2da8737b89f7" />
+## Output <img width="1218" height="794" alt="image" src="https://github.com/user-attachments/assets/646bc87b-2637-44d8-b863-cb16505fe945" />
+
 
 
  
